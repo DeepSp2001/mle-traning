@@ -1,0 +1,14 @@
+Script started on 2024-06-12 19:29:26+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="76" LINES="41"]
+[?2004h]0;root@SubhadeepPaul: ~root@SubhadeepPaul:~# sudo apt get install git
+[?2004l[1;31mE: [0mInvalid operation get[0m
+[?2004h]0;root@SubhadeepPaul: ~root@SubhadeepPaul:~# sudo apt get install git[1P[1P[1P[1P
+[?2004lReading package lists... 0%Reading package lists... 100%Reading package lists... Done
+Building dependency tree... 0%Building dependency tree... 0%Building dependency tree... 50%Building dependency tree... 50%Building dependency tree... Done
+Reading state information... 0% Reading state information... 0%Reading state information... Done
+git is already the newest version (1:2.34.1-1ubuntu1.10).
+git set to manually installed.
+0 upgraded, 0 newly installed, 0 to remove and 0 not upgraded.
+[?2004h]0;root@SubhadeepPaul: ~root@SubhadeepPaul:~# exit
+[?2004lexit
+
+Script done on 2024-06-12 19:30:01+05:30 [COMMAND_EXIT_CODE="0"]
