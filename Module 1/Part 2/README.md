@@ -33,7 +33,7 @@ $ conda activate mle-dev
 ## Running the python script
 To run the python script, use the following code
 ```
-$ pyhton nonstandardcode.py
+$ python nonstandardcode.py
 ```
 
 ## Output Image
