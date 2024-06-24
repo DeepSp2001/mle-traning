@@ -1,0 +1,6 @@
+include *.md LICENSE requirements.txt
+graft src
+graft tests
+graft docs
+graft scripts
+graft deploy
