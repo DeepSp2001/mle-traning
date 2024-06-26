@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/GitHub/mle-traning/Module%203/mlruns/0/55293ae028f04ae6b8151b7e6ccd8166/artifacts
+end_time: 1719415609754
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55293ae028f04ae6b8151b7e6ccd8166
+run_name: bustling-cat-583
+run_uuid: 55293ae028f04ae6b8151b7e6ccd8166
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415170690
+status: 3
+tags: []
+user_id: root
