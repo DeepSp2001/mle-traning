@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/GitHub/mle-traning/Module%203/mlruns/0/e4d767f3806f440883b2c7bb4d3befa5/artifacts
+end_time: 1719415170338
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4d767f3806f440883b2c7bb4d3befa5
+run_name: Ingest Run
+run_uuid: e4d767f3806f440883b2c7bb4d3befa5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415168188
+status: 3
+tags: []
+user_id: root
