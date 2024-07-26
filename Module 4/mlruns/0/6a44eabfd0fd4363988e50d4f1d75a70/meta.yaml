@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/GitHub/mle-traning/Module%203/mlruns/0/6a44eabfd0fd4363988e50d4f1d75a70/artifacts
+end_time: 1719415529112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a44eabfd0fd4363988e50d4f1d75a70
+run_name: calm-sheep-449
+run_uuid: 6a44eabfd0fd4363988e50d4f1d75a70
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415170690
+status: 3
+tags: []
+user_id: root

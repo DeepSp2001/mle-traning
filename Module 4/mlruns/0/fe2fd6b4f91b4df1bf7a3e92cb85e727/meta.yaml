@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/GitHub/mle-traning/Module%203/mlruns/0/fe2fd6b4f91b4df1bf7a3e92cb85e727/artifacts
+end_time: 1719415533256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe2fd6b4f91b4df1bf7a3e92cb85e727
+run_name: RandomizedSearchCV 5
+run_uuid: fe2fd6b4f91b4df1bf7a3e92cb85e727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415532896
+status: 3
+tags: []
+user_id: root
