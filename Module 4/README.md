@@ -81,3 +81,37 @@ mlflow ui --port 8080
 ```
 
 Now open a browser and navigate to https://127.0.0.1:8080. The `images/mlflow_work` folder contains a few demo images.
+
+## Packaging and Installation
+
+### Installation
+Unzip the file and go to the dist folder. There are 2 files, namely  `housing_price_predictor-0.4.tar.gz` and `housing_price_predictor-0.4-py3-none-any.whl`. Use pip to install these files. 
+
+```
+conda create env --name test python
+conda activate test
+cd Module \4
+cd dist
+pip install ./housing_price_predictor-0.4.tar.gz
+```
+
+### Test the installation 
+For testing if isntallation has correctly been done, install `pytest` and run it on the whole Module folder. 
+```
+(conda_env):~$ pip install pytest
+(conda_env):~$ cd test
+(conda_env):~/tests$ pytest -v
+```
+
+### Run the application 
+To run the application, navigate to the `Module 4` folder and run the following command.
+```
+python main.py
+mlflow ui --port 8080
+```
+
+### Look for log
+To look for logs, give a file name with the main.py file to store the log.
+```
+python main.py --log-path log.txt
+```
