@@ -1,0 +1,52 @@
+Script started on 2024-07-29 12:00:48+05:30 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="133" LINES="33"]
+[?2004h(base) ]0;subhadeep@TIGER02078: /mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[01;32msubhadeep@TIGER02078[00m:[01;34m/mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[00m$ docker ps
+[?2004lCONTAINER ID   IMAGE                  COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+332425c3f02f   my_python_mlflow_app   "sh -c 'python main.…"   12 hours ago   Up 12 hours   0.0.0.0:5939->5000/tcp, :::5939->5000/tcp   tender_elbakyan
+06ce93996e2b   my_python_mlflow_app   "sh -c 'python main.…"   12 hours ago   Up 12 hours   0.0.0.0:445->5000/tcp, :::445->5000/tcp     jolly_gauss
+[?2004h(base) ]0;subhadeep@TIGER02078: /mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[01;32msubhadeep@TIGER02078[00m:[01;34m/mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[00m$ docker ps -a
+[?2004lCONTAINER ID   IMAGE                  COMMAND                  CREATED        STATUS        PORTS                                       NAMES
+332425c3f02f   my_python_mlflow_app   "sh -c 'python main.…"   12 hours ago   Up 12 hours   0.0.0.0:5939->5000/tcp, :::5939->5000/tcp   tender_elbakyan
+06ce93996e2b   my_python_mlflow_app   "sh -c 'python main.…"   12 hours ago   Up 12 hours   0.0.0.0:445->5000/tcp, :::445->5000/tcp     jolly_gauss
+[?2004h(base) ]0;subhadeep@TIGER02078: /mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[01;32msubhadeep@TIGER02078[00m:[01;34m/mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[00m$ docker images
+[?2004lREPOSITORY             TAG       IMAGE ID       CREATED         SIZE
+my_python_mlflow_app   latest    593f47e341df   12 hours ago    2.02GB
+debian                 latest    2e5b8d3ef33e   6 days ago      117MB
+hello-world            latest    d2c94e258dcb   15 months ago   13.3kB
+[?2004h(base) ]0;subhadeep@TIGER02078: /mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[01;32msubhadeep@TIGER02078[00m:[01;34m/mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[00m$ docker container
+[?2004l
+Usage:  docker container COMMAND
+
+Manage containers
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  exec        Execute a command in a running container
+  export      Export a container's filesystem as a tar archive
+  inspect     Display detailed information on one or more containers
+  kill        Kill one or more running containers
+  logs        Fetch the logs of a container
+  ls          List containers
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  prune       Remove all stopped containers
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  run         Create and run a new container from an image
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  wait        Block until one or more containers stop, then print their exit codes
+
+Run 'docker container COMMAND --help' for more information on a command.
+[?2004h(base) ]0;subhadeep@TIGER02078: /mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[01;32msubhadeep@TIGER02078[00m:[01;34m/mnt/c/Users/Subhadeep.paul/Desktop/mle-traning/Module 4[00m$ exit
+[?2004lexit
+
+Script done on 2024-07-29 12:01:52+05:30 [COMMAND_EXIT_CODE="0"]
