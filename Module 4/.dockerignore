@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+*.pyo
+.git
+.env
+.csv
+mlrums/
+tests/
+scripts/
+images/
+docs/
+model_pickles/
+notebooks/
