@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/GitHub/mle-traning/Module%203/mlruns/0/8b73465cb6e2418f885604a9fa343ad2/artifacts
+end_time: 1719415618010
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b73465cb6e2418f885604a9fa343ad2
+run_name: GridSearchCV 17
+run_uuid: 8b73465cb6e2418f885604a9fa343ad2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415617637
+status: 3
+tags: []
+user_id: root

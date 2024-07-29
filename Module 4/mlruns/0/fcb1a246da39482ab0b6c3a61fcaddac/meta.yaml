@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/e/GitHub/mle-traning/Module%203/mlruns/0/fcb1a246da39482ab0b6c3a61fcaddac/artifacts
+end_time: 1719415529112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fcb1a246da39482ab0b6c3a61fcaddac
+run_name: nervous-wren-606
+run_uuid: fcb1a246da39482ab0b6c3a61fcaddac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719415170690
+status: 3
+tags: []
+user_id: root
